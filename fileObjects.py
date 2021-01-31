@@ -6,3 +6,5 @@ with open(r"notlar.txt", 'r') as f:
         print(dosya_içeriği, end='')
         dosya_içeriği = f.read(harf_sayısı)
 print('')
+
+# Aynı şekilde resim okuyup kopyalanabilir. sadece 'r' yerine 'rd'(read binary), 'w' yerine de 'wr'(write binary)
