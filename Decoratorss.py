@@ -10,7 +10,7 @@ a = f1
 # print(id(a), id(f1)) # çıktı = 1375114616896 1375114616896
 # Bu şunu söylüyor:
 # 1375114616896 adresinde şu şu özelliklere sahip bir fonksiyon var ve a ile f1 değişkeni belleğin
-# 1375114616896 adresindeki bu fonksiyonun dış dünyadaki bir temsilcisidir.
+# 1375114616896 adresindeki bu fonksiyonun dış dünyadaki iki temsilcisidir.
 # -------
 def f2(f):
     return f()
