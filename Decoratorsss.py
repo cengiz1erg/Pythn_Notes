@@ -17,5 +17,5 @@ def display_info(name, age):
     print('display_info ran with arguments ({}, {})'.format(name, age))
 
 
-display_info('John', 25)
-display_info('Travis', 30)
+display_info('adfadf', 25)
+display_info('fsgfgs', 30)
